@@ -1,0 +1,20 @@
+.carousel-item {
+    padding-bottom: 40px;
+}
+.indent {
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.navbar-dark  .navbar-nav .nav-link:hover {
+   color: #0c4128;
+}
+.st1 {
+	text-indent: 15px;
+}
+.st1 {
+	width:380px;
+	padding-left:35px;
+}
+.b1 {
+	text-align:center;
+}
